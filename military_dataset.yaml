@@ -1,0 +1,16 @@
+train: C:/Users/Rahila/Downloads/Military/military_object_dataset/train/images
+val: C:/Users/Rahila/Downloads/Military/military_object_dataset/val/images
+
+nc: 9  # number of classes
+names:
+  [
+    "camouflage_soldier",
+    "weapon",
+    "military_tank",
+    "military_truck",
+    "military_vehicle",
+    "civilian",
+    "soldier",
+    "civilian_vehicle",
+    "trench"
+  ]
